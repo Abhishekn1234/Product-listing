@@ -1,0 +1,27 @@
+ul{
+    list-style-type: none;
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+    color:white;
+   
+   
+}
+nav{
+    background-color: green;
+    padding: 30px;
+    display: flex;
+    text-decoration: none;
+    
+}
+
+li{
+    justify-content: space-between;
+    margin-left: 20px;
+    text-decoration: none;
+    color:white;
+}
+.list{
+    text-decoration: none;
+    color:white;
+}

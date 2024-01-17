@@ -1,0 +1,44 @@
+/* ProductList.css */
+
+/* Style for the entire container */
+.product-list-container {
+    padding: 20px;
+  }
+  
+  /* Style for the heading */
+  .product-list-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the table */
+  .product-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .product-table th,
+  .product-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  
+  .add-product-link {
+    display: block;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-product-link:hover {
+    background-color: #45a049;
+  }
+  
